@@ -234,6 +234,7 @@ footer {
   padding: 50px 60px;
   display: flex;
   justify-content: center;
+  
 }
 .home .actual .actual-text {
   width: 50%;
@@ -246,13 +247,14 @@ footer {
 }
 .home .actual .actual-text .btn {
   font-size: 10px;
-  font-weight: 300;
-  padding: 15 px 8px 15 px 8px;
+  font-weight: 30px;
+  padding: 15px 8px 15px 8px;
   display: inline-block;
   background-color: #22283A;
   color: white;
   border-radius: 10px;
   cursor: pointer;
+  
 }
 .home .actual .actual-text .btn:hover {
   background-color: white;
@@ -266,4 +268,7 @@ footer {
   width: 100%;
   height: auto;
   border-radius: 10px;
+}
+p{
+  text-align: justify;
 }
